@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "TN392GAYUP.com.imohoo.shanpao",
+                "paths": [ "support/links/*" ]
+            },
+            {
+                "appID": "NNKTAU445P.org.imohoo.shanpao",
+                "paths": [ "/support/links/*" ]
+            }
+        ]
+    }
+}
